@@ -30,7 +30,7 @@ Este projeto implementa uma pipeline de dados moderna utilizando o conceito de *
 ### Instalação e Execução
 1. Clone o repositório:
    ```bash
-   git clone <seu-repo-url>
+   git clone git@github.com:renato-avellar/Pipeline-ELT-Astro-dbt-Snowflake.git
    cd dbt-dag
    ```
 
